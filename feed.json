@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Accessible Things",
     "description": "",
-    "home_page_url": "http://PACinquin.hithub.io/gh-pages",
-    "feed_url": "http://PACinquin.hithub.io/gh-pages/feed.json",
+    "home_page_url": "https://pacinquin.github.io/gh-pages",
+    "feed_url": "https://pacinquin.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
         "name": "Pierre-Antoine Cinquin"
     },
     "items": [
         {
-            "id": "http://PACinquin.hithub.io/gh-pages/lorem-ipsum.html",
-            "url": "http://PACinquin.hithub.io/gh-pages/lorem-ipsum.html",
+            "id": "https://pacinquin.github.io/gh-pages/lorem-ipsum.html",
+            "url": "https://pacinquin.github.io/gh-pages/lorem-ipsum.html",
             "title": "Lorem Ipsum",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit est dignissim nunc volutpat tincidunt. Vivamus ac quam in magna pulvinar vulputate sed ac quam. Vestibulum quis enim risus. Donec quis sagittis eros. Integer eget porttitor leo. Etiam fringilla ac purus in ultricies. Integer imperdiet quam at nunc convallis, sed eleifend metus hendrerit. Maecenas sit amet volutpat ante, sed euismod lacus. Mauris vehicula purus eget erat aliquet gravida. Donec odio felis, lobortis facilisis auctor nec, posuere vel est. In pellentesque porttitor placerat. Phasellus euismod turpis et tortor sodales, sit amet sodales nibh ultrices. Donec euismod ullamcorper erat ut ornare. Etiam elementum bibendum blandit.</p>\n<p>Proin feugiat suscipit vestibulum. Suspendisse non tempor nibh. Donec pulvinar interdum mi, at fringilla nibh pellentesque non. Donec lectus ex, commodo nec urna ut, imperdiet porta arcu. Fusce tincidunt diam vitae risus dapibus, in ornare lorem molestie. Nunc a egestas nulla. Sed tristique mollis orci id consectetur. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi volutpat tortor eu varius finibus. Quisque vitae sapien at nisi tempus vehicula eu ac neque. Vivamus eu varius nisl, a semper nunc. Phasellus pulvinar, mauris vitae lacinia sollicitudin, odio justo iaculis orci, eget sollicitudin odio lectus vitae sapien. In et auctor ex, a faucibus est. Etiam pharetra lacus at facilisis rhoncus.</p>\n<p>Cras pulvinar ante quis lectus condimentum luctus. Mauris sodales lorem vel ante interdum interdum. Nulla mi ex, tempus non dictum ut, vestibulum non nibh. Donec nec accumsan enim. Aenean finibus justo et odio commodo, sit amet rutrum ante dictum. Donec ornare lacus lacus, ac sollicitudin justo vulputate a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc sollicitudin varius tellus ut malesuada.</p>\n<p>Sed a lorem eu quam eleifend tincidunt. Vestibulum elementum tortor et lorem imperdiet, et laoreet lorem dapibus. Praesent pretium aliquet maximus. Fusce malesuada, lectus id consectetur iaculis, ante neque condimentum ligula, sed volutpat sapien risus varius lacus. In mi mi, interdum non bibendum eu, laoreet fermentum tellus. Nullam accumsan gravida metus, eget fringilla orci volutpat ac. Donec eu dictum purus. Nam tempor, sapien sit amet suscipit euismod, urna erat commodo arcu, a ultricies lorem urna vel est. Vivamus tincidunt varius tortor vitae egestas.</p>\n<p>In tincidunt eu turpis id tristique. Sed non massa eget nulla egestas ultricies quis in ipsum. Nunc dictum, orci id sollicitudin mattis, magna mi iaculis magna, sed sagittis leo orci quis nibh. Nullam volutpat porta tellus, vitae porta elit finibus non. Pellentesque scelerisque placerat bibendum. Cras porta nunc nec tincidunt dapibus. Praesent lacus diam, lobortis fermentum purus vitae, vestibulum facilisis metus. Suspendisse facilisis tempor condimentum. Proin consectetur aliquet ante, in pulvinar augue elementum eu. Pellentesque quis placerat ligula. Integer ultrices nisi ac maximus mattis. Ut varius lectus sit amet tortor mollis, at tristique nisl varius. Suspendisse eu est enim. Nunc ornare viverra dictum. Sed dui velit, pulvinar sit amet lobortis sed, semper in justo. Sed id malesuada est.</p>",
-            "image": "http://PACinquin.hithub.io/gh-pages/media/posts/1/",
+            "image": "https://pacinquin.github.io/gh-pages/media/posts/1/",
             "author": {
                 "name": "Pierre-Antoine Cinquin"
             },
